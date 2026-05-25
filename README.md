@@ -1,0 +1,2 @@
+# Xilinx_ZYNQ7010_EBAZ4205
+Xilinx ZYNQ7010 EBAZ4205 ZYNQ-7010 Z7-10 Development Board XC7Z7010 Learning Board FPGA
