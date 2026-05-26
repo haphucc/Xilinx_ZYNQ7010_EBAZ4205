@@ -59,7 +59,7 @@ EBAZ4205 là một board SoC FPGA sử dụng chip:
 Xilinx_ZYNQ7010_EBAZ4205\Schematic\ebaz4205_schematic.pdf
 ```
 
-## Board TOP / BOTTOM
+## Board TOP / BOTTOM View
 
 <table>
 <tr>
@@ -89,7 +89,7 @@ Xilinx_ZYNQ7010_EBAZ4205\PCB\kicad
 
 ## 3D View
 
-<img src="Xilinx_ZYNQ7010_EBAZ4205/PCB/EBAZ4205-3D.png" width="900">
+<img src="PCB/EBAZ4205-3D.png" width="900">
 
 ---
 
