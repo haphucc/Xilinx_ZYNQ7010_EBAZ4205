@@ -35,7 +35,7 @@ EBAZ4205 là một board SoC FPGA sử dụng chip:
 ## File schematic
 
 ```text
-Xilinx_ZYNQ7010_EBAZ4205\Schematic\ebaz4205_schematic.pdf
+[Xem file Schematic EBAZ4205 (PDF)](https://github.com/haphucc/Xilinx_ZYNQ7010_EBAZ4205/blob/main/Schematic/ebaz4205_schematic.pdf)
 ```
 
 [Xem file Schematic EBAZ4205 (PDF)](https://github.com/haphucc/Xilinx_ZYNQ7010_EBAZ4205/blob/main/Schematic/ebaz4205_schematic.pdf)
