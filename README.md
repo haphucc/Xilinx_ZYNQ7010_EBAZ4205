@@ -42,19 +42,19 @@ EBAZ4205 là một board SoC FPGA sử dụng chip:
 <tr>
 <td align="center">
 
-<img src="Schematic/EBAZ-TOP-1024x768.jpg" width="500">
+<img src="Schematic/EBAZ-TOP-1024x768.jpg" width="600">
 
 </td>
 
 <td align="center">
 
-<img src="Schematic/EBAZ-BOTTOM-1024x768.jpg" width="500">
+<img src="Schematic/EBAZ-BOTTOM-1024x768.jpg" width="600">
 
 </td>
 
 <td align="center">
 
-<img src="PCB/EBAZ4205-3D.png" width="500">
+<img src="PCB/EBAZ4205-3D.png" width="600">
 
 </td>
 
