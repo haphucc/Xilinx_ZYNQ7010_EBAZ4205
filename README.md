@@ -71,7 +71,7 @@ Xilinx_ZYNQ7010_EBAZ4205\Schematic\ebaz4205_schematic.pdf
 
 <td align="center">
 
-<img src="Xilinx_ZYNQ7010_EBAZ4205/Schematic/EBAZ-BOTTOM-1024x768.jpg" width="500">
+<img src="Schematic/EBAZ-BOTTOM-1024x768.jpg" width="500">
 
 </td>
 </tr>
