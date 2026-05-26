@@ -32,11 +32,19 @@ EBAZ4205 là một board SoC FPGA sử dụng chip:
 
 # 2. Schematic EBAZ4205
 
-## File schematic
+<!--## File schematic-->
 
 [Xem file Schematic EBAZ4205 (PDF)](https://github.com/haphucc/Xilinx_ZYNQ7010_EBAZ4205/blob/main/Schematic/ebaz4205_schematic.pdf)
 
-## Board TOP / BOTTOM View
+---
+
+# 3. PCB EBAZ4205
+
+<!--## File PCB KiCad-->
+
+[Xem file Kicad PCB EBAZ4205](https://github.com/haphucc/Xilinx_ZYNQ7010_EBAZ4205/PCB/kicad)
+
+## 3D View
 
 <table>
 <tr>
@@ -59,27 +67,9 @@ EBAZ4205 là một board SoC FPGA sử dụng chip:
 
 ---
 
-# 3. PCB EBAZ4205
-
-## File PCB KiCad
-
-```text
-Xilinx_ZYNQ7010_EBAZ4205\PCB\kicad
-```
-
-## 3D View
-
-<img src="PCB/EBAZ4205-3D.png" width="900">
-
----
-
 # 4. Pinout
 
-File pinout:
-
-```text
-Xilinx_ZYNQ7010_EBAZ4205\Pinout\ebaz4205-pinout.md
-```
+[Xem file Pinout EBAZ4205](https://github.com/haphucc/Xilinx_ZYNQ7010_EBAZ4205/Pinout/ebaz4205-pinout.md)
 
 Pinout bao gồm:
 
@@ -96,11 +86,7 @@ Pinout bao gồm:
 
 # 5. Board files
 
-Đường dẫn:
-
-```text
-Xilinx_ZYNQ7010_EBAZ4205\Board files
-```
+[Xem Board files EBAZ4205](https://github.com/haphucc/Xilinx_ZYNQ7010_EBAZ4205/Pinout/ebaz4205-pinout.md)
 
 Board files dùng để:
 
@@ -113,11 +99,7 @@ Board files dùng để:
 
 # 6. Mạch nạp JTAG XVC - Raspberry Pico
 
-Đường dẫn:
-
-```text
-Xilinx_ZYNQ7010_EBAZ4205\Mạch nạp JTAG XVC - Raspberry Pico
-```
+[JTAG XVC - Raspberry Pico for EBAZ4205](https://github.com/haphucc/Xilinx_ZYNQ7010_EBAZ4205/JTAG_XVC_RaspberryPico)
 
 Bao gồm:
 
@@ -130,7 +112,7 @@ Bao gồm:
   - XVC Server
 
 ---
-
+## Hướng dẫn Setup
 ## 1. Bước chỉ làm 1 LẦN DUY NHẤT (Không cần làm lại)
 
 ### Nạp firmware `.uf2` cho Pi Pico
