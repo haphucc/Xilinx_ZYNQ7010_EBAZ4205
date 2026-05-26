@@ -1,5 +1,4 @@
 # Xilinx_ZYNQ7010_EBAZ4205
-Xilinx ZYNQ7010 EBAZ4205 ZYNQ-7010 Z7-10 Development Board XC7Z7010 Learning Board FPGA
 
 # 1. Board EBAZ4205 là gì?
 
@@ -16,26 +15,6 @@ EBAZ4205 là một board SoC FPGA sử dụng chip:
     - Hỗ trợ thiết kế logic số bằng Verilog/VHDL
     - Có thể tạo IP Core, DSP, giao tiếp ngoại vi custom...
 
-## Đặc điểm nổi bật
-
-- Giá thành rất rẻ so với các board Zynq thương mại
-- Có:
-  - DDR3 onboard
-  - NAND Flash
-  - Ethernet PHY
-  - SD Card boot
-  - GPIO mở rộng
-- Hỗ trợ:
-  - Vivado
-  - Vitis
-  - PetaLinux
-- Phù hợp cho:
-  - Học FPGA
-  - Embedded Linux
-  - SoC Design
-  - Hardware Acceleration
-  - DSP Processing
-  - Custom Peripheral Design
 
 ## Thông số cơ bản
 
@@ -58,6 +37,8 @@ EBAZ4205 là một board SoC FPGA sử dụng chip:
 ```text
 Xilinx_ZYNQ7010_EBAZ4205\Schematic\ebaz4205_schematic.pdf
 ```
+
+[Xem file Schematic EBAZ4205 (PDF)](https://github.com/haphucc/Xilinx_ZYNQ7010_EBAZ4205/blob/main/Schematic/ebaz4205_schematic.pdf)
 
 ## Board TOP / BOTTOM View
 
